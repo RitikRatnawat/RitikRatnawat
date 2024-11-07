@@ -80,11 +80,11 @@ Backend Software Engineer with expertise in Python, Django, FastAPI, AWS, and De
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/cf414be74150f009568fcb702d51c002d997ff00/assets/aws-apigateway.png" width=48 alt="AWS APIGateway" style="border-radius: 10px">
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/cf414be74150f009568fcb702d51c002d997ff00/assets/aws-ecs.png" width=48 alt="AWS ECS" style="border-radius: 10px">
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/cf414be74150f009568fcb702d51c002d997ff00/assets/aws-ecs-fargate.png" width=48 alt="AWS ECS Fargate" style="border-radius: 10px"> <br>
-<img src="./aws-sqs.png" width=48 alt="AWS SQS" style="border-radius: 10px">
-<img src="./aws-sns.png" width=48 alt="AWS SNS" style="border-radius: 10px">
-<img src="./aws-ses.png" width=48 alt="AWS SES" style="border-radius: 10px">
-<img src="./aws-secretmanager.png" width=48 alt="AWS Secrets Manager" style="border-radius: 10px">
-<img src="./aws-cloudwatch.png" width=48 alt="AWS CloudWatch" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/20cbec9b4c921a56f3790c644feae03e1fb91e12/assets/aws-sqs.png" width=48 alt="AWS SQS" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/20cbec9b4c921a56f3790c644feae03e1fb91e12/assets/aws-sns.png" width=48 alt="AWS SNS" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/20cbec9b4c921a56f3790c644feae03e1fb91e12/assets/aws-ses.png" width=48 alt="AWS SES" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/20cbec9b4c921a56f3790c644feae03e1fb91e12/assets/aws-secretmanager.png" width=48 alt="AWS Secrets Manager" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/20cbec9b4c921a56f3790c644feae03e1fb91e12/assets/aws-cloudwatch.png" width=48 alt="AWS CloudWatch" style="border-radius: 10px">
 <img src="./aws-route53.png" width=48 alt="AWS Route53" style="border-radius: 10px">
 <img src="./aws-codecommit.png" width=48 alt="AWS CodeCommit" style="border-radius: 10px">
 <img src="./aws-codebuild.png" width=48 alt="AWS CodeBuild" style="border-radius: 10px">
