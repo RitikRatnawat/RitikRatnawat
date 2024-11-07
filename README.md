@@ -73,9 +73,9 @@ Backend Software Engineer with expertise in Python, Django, FastAPI, AWS, and De
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/1c67835a7b60dfa2de4a595a1d15b89690d5f28a/assets/aws-loadbalancer.png" width=48 alt="AWS Elastic LoadBalancer" style="border-radius: 10px">
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/1c67835a7b60dfa2de4a595a1d15b89690d5f28a/assets/aws-iam.png" width=48 alt="AWS Elastic IAM" style="border-radius: 10px">
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/abd24652912dec7b0f7294f4fcfcb869534dff54/assets/aws-lambda.png" width=48 alt="AWS Lambda" style="border-radius: 10px">
-<img src="./aws-s3.png" width=48 alt="AWS S3" style="border-radius: 10px">
-<img src="./aws-rds.png" width=48 alt="AWS S3" style="border-radius: 10px">
-<img src="./aws-dynamodb.png" width=48 alt="AWS S3" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/ebaebc6578534691f521e2da02ecd2bc707db05b/assets/aws-s3.png" width=48 alt="AWS S3" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/ebaebc6578534691f521e2da02ecd2bc707db05b/assets/aws-rds.png" width=48 alt="AWS RDS" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/ebaebc6578534691f521e2da02ecd2bc707db05b/assets/aws-dynamodb.png" width=48 alt="AWS DynamoDB" style="border-radius: 10px">
 <img src="./aws-elasticcache.png" width=48 alt="AWS ElasticCache" style="border-radius: 10px">
 <img src="./aws-apigateway.png" width=48 alt="AWS S3" style="border-radius: 10px">
 <img src="./aws-ecs.png" width=48 alt="AWS ECS" style="border-radius: 10px">
