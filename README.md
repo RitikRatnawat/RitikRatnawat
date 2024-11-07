@@ -70,9 +70,9 @@ Backend Software Engineer with expertise in Python, Django, FastAPI, AWS, and De
 ![AWS](https://skillicons.dev/icons?i=aws&theme=light)
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/1b9aed85037b71ca8ba7501df95160598c3e18de/assets/aws-ec2.png" width=48 alt="AWS EC2" style="border-radius: 10px">
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/1b9aed85037b71ca8ba7501df95160598c3e18de/assets/aws-ec2-autoscaling.png" width=48 alt="AWS EC2 Auto Scaling" style="border-radius: 10px">
-<img src="./aws-loadbalancer.png" width=48 alt="AWS Elastic LoadBalancer" style="border-radius: 10px">
-<img src="./aws-iam.png" width=48 alt="AWS Elastic IAM" style="border-radius: 10px">
-<img src="./aws-lambda.png" width=48 alt="AWS Lambda" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/1c67835a7b60dfa2de4a595a1d15b89690d5f28a/assets/aws-loadbalancer.png" width=48 alt="AWS Elastic LoadBalancer" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/1c67835a7b60dfa2de4a595a1d15b89690d5f28a/assets/aws-iam.png" width=48 alt="AWS Elastic IAM" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/abd24652912dec7b0f7294f4fcfcb869534dff54/assets/aws-lambda.png" width=48 alt="AWS Lambda" style="border-radius: 10px">
 <img src="./aws-s3.png" width=48 alt="AWS S3" style="border-radius: 10px">
 <img src="./aws-rds.png" width=48 alt="AWS S3" style="border-radius: 10px">
 <img src="./aws-dynamodb.png" width=48 alt="AWS S3" style="border-radius: 10px">
