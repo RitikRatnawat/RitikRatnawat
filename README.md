@@ -1,9 +1,9 @@
-![MasterHead](https://github.com/RitikRatnawat/RitikRatnawat/blob/f7a34ba68c825afc5ddba0f2d918cc9d205478de/Ritik%20Ratnawat.png)
+![MasterHead](https://github.com/RitikRatnawat/RitikRatnawat/blob/7a27fe7a93af7e246d9cd4e30703c113dc537942/Ritik%20Ratnawat.png)
 
 <h1 align="center">Hi 👋, I'm Ritik Ratnawat</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikratnawat&label=Profile%20views&color=0e75b6&style=plastic" alt="ritikratnawat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikratnawat&label=Profile%20views&color=0e75b6&style=plastic" alt="ritikratnawat" /></p>
 
 - 🌱 I’m currently learning **React, Node**
 
