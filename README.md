@@ -49,7 +49,7 @@ Backend Software Engineer with expertise in Python, Django, FastAPI, AWS, and De
 
 #### Databases (NoSQL)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light)
-![DynamoDB](https://skillicons.dev/icons?i=dynamodb&theme=light)
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/96f4ac14d62b3cf739e454a7013900771f06524d/assets/aws-dynamodb.png" width=48 alt="AWS S3" style="border-radius: 10px">
 ![Redis](https://skillicons.dev/icons?i=redis&theme=light)
 
 #### Technologies
@@ -65,5 +65,33 @@ Backend Software Engineer with expertise in Python, Django, FastAPI, AWS, and De
 ![Openshift](https://skillicons.dev/icons?i=openshift&theme=light)
 ![Postman](https://skillicons.dev/icons?i=postman&theme=light)
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/29d32e2546628cfe8de1b0d5269b4e4f17562c62/assets/webrtc.png" width=52 alt="WebRTC">
+
+#### Cloud Services
+![AWS](https://skillicons.dev/icons?i=aws&theme=light)
+<img src="./aws-ec2.png" width=48 alt="AWS EC2" style="border-radius: 10px">
+<img src="./aws-ec2-autoscaling.png" width=48 alt="AWS EC2 Auto Scaling" style="border-radius: 10px">
+<img src="./aws-loadbalancer.png" width=48 alt="AWS Elastic LoadBalancer" style="border-radius: 10px">
+<img src="./aws-iam.png" width=48 alt="AWS Elastic IAM" style="border-radius: 10px">
+<img src="./aws-lambda.png" width=48 alt="AWS Lambda" style="border-radius: 10px">
+<img src="./aws-s3.png" width=48 alt="AWS S3" style="border-radius: 10px">
+<img src="./aws-rds.png" width=48 alt="AWS S3" style="border-radius: 10px">
+<img src="./aws-dynamodb.png" width=48 alt="AWS S3" style="border-radius: 10px">
+<img src="./aws-elasticcache.png" width=48 alt="AWS ElasticCache" style="border-radius: 10px">
+<img src="./aws-apigateway.png" width=48 alt="AWS S3" style="border-radius: 10px">
+<img src="./aws-ecs.png" width=48 alt="AWS ECS" style="border-radius: 10px">
+<img src="./aws-ecs-fargate.png" width=48 alt="AWS ECS Fargate" style="border-radius: 10px"> <br>
+<img src="./aws-sqs.png" width=48 alt="AWS SQS" style="border-radius: 10px">
+<img src="./aws-sns.png" width=48 alt="AWS SNS" style="border-radius: 10px">
+<img src="./aws-ses.png" width=48 alt="AWS SES" style="border-radius: 10px">
+<img src="./aws-secretmanager.png" width=48 alt="AWS Secrets Manager" style="border-radius: 10px">
+<img src="./aws-cloudwatch.png" width=48 alt="AWS CloudWatch" style="border-radius: 10px">
+<img src="./aws-route53.png" width=48 alt="AWS Route53" style="border-radius: 10px">
+<img src="./aws-codecommit.png" width=48 alt="AWS CodeCommit" style="border-radius: 10px">
+<img src="./aws-codebuild.png" width=48 alt="AWS CodeBuild" style="border-radius: 10px">
+<img src="./aws-codeartifact.png" width=48 alt="AWS CodeArtifact" style="border-radius: 10px">
+<img src="./aws-codedeploy.png" width=48 alt="AWS CodeDeploy" style="border-radius: 10px">
+<img src="./aws-codestar.png" width=48 alt="AWS CodeStar" style="border-radius: 10px">
+<img src="./aws-codepipeline.png" width=48 alt="AWS CodePipeline" style="border-radius: 10px">
+<img src="./aws-glue.png" width=48 alt="AWS Glue" style="border-radius: 10px">
 
 ---
