@@ -100,3 +100,7 @@ Backend Software Engineer with expertise in Python, Django, FastAPI, AWS, and De
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RitikRatnawat&show_icons=true&theme=default&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RitikRatnawat&layout=compact&theme=default)
 
+---
+
+Thanks for visiting my profile! Looking forward to collaborating and learning together.
+
