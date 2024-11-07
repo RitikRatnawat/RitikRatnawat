@@ -1,23 +1,69 @@
-![MasterHead](https://github.com/RitikRatnawat/RitikRatnawat/blob/7a27fe7a93af7e246d9cd4e30703c113dc537942/Ritik%20Ratnawat.png)
+![MasterHead](https://github.com/RitikRatnawat/RitikRatnawat/blob/29d32e2546628cfe8de1b0d5269b4e4f17562c62/assets/Ritik%20Ratnawat.png)
 
 <h1 align="center">Hi 👋, I'm Ritik Ratnawat</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">🚀 Software Engineer | Backend Developer | AWS Certified | Skilled in Python, JavaScript, Django, FastAPI, DevOps | Passionate about Scalable Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikratnawat&label=Profile%20views&color=0e75b6&style=plastic" alt="ritikratnawat" /></p>
 
-- 🌱 I’m currently learning **React, Node**
-
+- 🌱 I’m currently learning **Backend Development, DevOps, WebRTC**
+- 💬 Ask me about **Python, JavaScript, Backend, Data Engineering, DevOps**
 - 📫 How to reach me **ritikratnawat786@gmail.com**
+- 🌍 Current Location : **Pune, Maharashtra, India**
+- 📄 Know about my experiences **[CV - Ritik Ratnawat](https://drive.google.com/file/d/1omuWcvYCWuIx0ya79FSZkPwwuP3e2FyW/view?usp=drive_link)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### 👨‍💻 About Me
+Backend Software Engineer with expertise in Python, Django, FastAPI, AWS, and DevOps tools. I am passionate about developing scalable solutions that streamline processes and enhance efficiency. AWS-certified, with a strong background in cloud services and microservice architecture. I enjoy solving complex backend challenges and contributing to impactful projects.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikratnawat&show_icons=true&locale=en&layout=compact" alt="ritikratnawat" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikratnawat&show_icons=true&locale=en" alt="ritikratnawat" /></p>
+### 📫 Connect with Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/ritikratnawat786/)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/RitikRatnawat)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikratnawat&" alt="ritikratnawat" /></p>
+---
+
+### 🔧 Technologies & Tools
+
+#### Programming Languages
+![Python](https://skillicons.dev/icons?i=python&theme=light)
+![Java](https://skillicons.dev/icons?i=java&theme=light)
+![CPP](https://skillicons.dev/icons?i=cpp&theme=light)
+![HTML](https://skillicons.dev/icons?i=html&theme=light)
+![CSS](https://skillicons.dev/icons?i=css&theme=light)
+![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light)
+![Golang](https://skillicons.dev/icons?i=go&theme=light)
+![BASH](https://skillicons.dev/icons?i=bash&theme=light)
+
+#### Frameworks
+![Django](https://skillicons.dev/icons?i=django&theme=light)
+![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=light)
+![Flask](https://skillicons.dev/icons?i=flask&theme=light)
+![React](https://skillicons.dev/icons?i=react&theme=light)
+
+#### Databases (SQL)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)
+![PostgresSQL](https://skillicons.dev/icons?i=postgres&theme=light)
+![SQLite](https://skillicons.dev/icons?i=sqlite&theme=light)
+
+#### Databases (NoSQL)
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light)
+![DynamoDB](https://skillicons.dev/icons?i=dynamodb&theme=light)
+![Redis](https://skillicons.dev/icons?i=redis&theme=light)
+
+#### Technologies
+![Git](https://skillicons.dev/icons?i=git&theme=light)
+![Bitbucket](https://skillicons.dev/icons?i=bitbucket&theme=light)
+![Gitlab](https://skillicons.dev/icons?i=gitlab&theme=light)
+![Docker](https://skillicons.dev/icons?i=docker&theme=light)
+![Ansible](https://skillicons.dev/icons?i=ansible&theme=light)
+![Jenkins](https://skillicons.dev/icons?i=jenkins&theme=light)
+![Terraform](https://skillicons.dev/icons?i=terraform&theme=light)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=light)
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/29d32e2546628cfe8de1b0d5269b4e4f17562c62/assets/helm.png" width=50 alt="Helm">
+![Openshift](https://skillicons.dev/icons?i=openshift&theme=light)
+![Postman](https://skillicons.dev/icons?i=postman&theme=light)
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/29d32e2546628cfe8de1b0d5269b4e4f17562c62/assets/webrtc.png" width=52 alt="WebRTC">
+
+---
