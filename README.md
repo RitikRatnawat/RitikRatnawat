@@ -85,13 +85,13 @@ Backend Software Engineer with expertise in Python, Django, FastAPI, AWS, and De
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/20cbec9b4c921a56f3790c644feae03e1fb91e12/assets/aws-ses.png" width=48 alt="AWS SES" style="border-radius: 10px">
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/20cbec9b4c921a56f3790c644feae03e1fb91e12/assets/aws-secretmanager.png" width=48 alt="AWS Secrets Manager" style="border-radius: 10px">
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/20cbec9b4c921a56f3790c644feae03e1fb91e12/assets/aws-cloudwatch.png" width=48 alt="AWS CloudWatch" style="border-radius: 10px">
-<img src="./aws-route53.png" width=48 alt="AWS Route53" style="border-radius: 10px">
-<img src="./aws-codecommit.png" width=48 alt="AWS CodeCommit" style="border-radius: 10px">
-<img src="./aws-codebuild.png" width=48 alt="AWS CodeBuild" style="border-radius: 10px">
-<img src="./aws-codeartifact.png" width=48 alt="AWS CodeArtifact" style="border-radius: 10px">
-<img src="./aws-codedeploy.png" width=48 alt="AWS CodeDeploy" style="border-radius: 10px">
-<img src="./aws-codestar.png" width=48 alt="AWS CodeStar" style="border-radius: 10px">
-<img src="./aws-codepipeline.png" width=48 alt="AWS CodePipeline" style="border-radius: 10px">
-<img src="./aws-glue.png" width=48 alt="AWS Glue" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-route53.png" width=48 alt="AWS Route53" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-codecommit.png" width=48 alt="AWS CodeCommit" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-codebuild.png" width=48 alt="AWS CodeBuild" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-codeartifact.png" width=48 alt="AWS CodeArtifact" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-codedeploy.png" width=48 alt="AWS CodeDeploy" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-codestar.png" width=48 alt="AWS CodeStar" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-codepipeline.png" width=48 alt="AWS CodePipeline" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-glue.png" width=48 alt="AWS Glue" style="border-radius: 10px">
 
 ---
