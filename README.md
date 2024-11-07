@@ -76,10 +76,10 @@ Backend Software Engineer with expertise in Python, Django, FastAPI, AWS, and De
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/ebaebc6578534691f521e2da02ecd2bc707db05b/assets/aws-s3.png" width=48 alt="AWS S3" style="border-radius: 10px">
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/ebaebc6578534691f521e2da02ecd2bc707db05b/assets/aws-rds.png" width=48 alt="AWS RDS" style="border-radius: 10px">
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/ebaebc6578534691f521e2da02ecd2bc707db05b/assets/aws-dynamodb.png" width=48 alt="AWS DynamoDB" style="border-radius: 10px">
-<img src="./aws-elasticcache.png" width=48 alt="AWS ElasticCache" style="border-radius: 10px">
-<img src="./aws-apigateway.png" width=48 alt="AWS S3" style="border-radius: 10px">
-<img src="./aws-ecs.png" width=48 alt="AWS ECS" style="border-radius: 10px">
-<img src="./aws-ecs-fargate.png" width=48 alt="AWS ECS Fargate" style="border-radius: 10px"> <br>
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/cf414be74150f009568fcb702d51c002d997ff00/assets/aws-elasticcache.png" width=48 alt="AWS ElasticCache" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/cf414be74150f009568fcb702d51c002d997ff00/assets/aws-apigateway.png" width=48 alt="AWS APIGateway" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/cf414be74150f009568fcb702d51c002d997ff00/assets/aws-ecs.png" width=48 alt="AWS ECS" style="border-radius: 10px">
+<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/cf414be74150f009568fcb702d51c002d997ff00/assets/aws-ecs-fargate.png" width=48 alt="AWS ECS Fargate" style="border-radius: 10px"> <br>
 <img src="./aws-sqs.png" width=48 alt="AWS SQS" style="border-radius: 10px">
 <img src="./aws-sns.png" width=48 alt="AWS SNS" style="border-radius: 10px">
 <img src="./aws-ses.png" width=48 alt="AWS SES" style="border-radius: 10px">
