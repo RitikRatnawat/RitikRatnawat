@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/RitikRatnawat/RitikRatnawat/blob/f7a34ba68c825afc5ddba0f2d918cc9d205478de/Ritik%20Ratnawat.png)
+
 <h1 align="center">Hi 👋, I'm Ritik Ratnawat</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
