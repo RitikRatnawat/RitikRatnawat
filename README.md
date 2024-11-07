@@ -95,3 +95,8 @@ Backend Software Engineer with expertise in Python, Django, FastAPI, AWS, and De
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-glue.png" width=48 alt="AWS Glue" style="border-radius: 10px">
 
 ---
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RitikRatnawat&show_icons=true&theme=default&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RitikRatnawat&layout=compact&theme=default)
+
