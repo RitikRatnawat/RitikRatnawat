@@ -52,7 +52,7 @@ Backend Software Engineer with expertise in Python, Django, FastAPI, AWS, and De
 <img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/96f4ac14d62b3cf739e454a7013900771f06524d/assets/aws-dynamodb.png" width=48 alt="AWS S3" style="border-radius: 10px">
 ![Redis](https://skillicons.dev/icons?i=redis&theme=light)
 
-#### DevOps Tools
+#### Other Technologies
 ![Git](https://skillicons.dev/icons?i=git&theme=light)
 ![Bitbucket](https://skillicons.dev/icons?i=bitbucket&theme=light)
 ![Gitlab](https://skillicons.dev/icons?i=gitlab&theme=light)
