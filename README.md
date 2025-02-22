@@ -9,7 +9,7 @@
 - 💬 Ask me about **Python, JavaScript, Backend, Data Engineering, DevOps**
 - 📫 How to reach me **ritikratnawat786@gmail.com**
 - 🌍 Current Location : **Pune, Maharashtra, India**
-- 📄 Know about my experiences **[CV - Ritik Ratnawat](https://drive.google.com/file/d/1d6k71lR3birMQ5CeRErcppBNqFpREThE/view?usp=sharing)**
+- 📄 Know about my experiences **[CV - Ritik Ratnawat](https://drive.google.com/file/d/1d6k71lR3birMQ5CeRErcppBNqFpREThE/view?usp=sharing "target=_blank")**
 
 ---
 
