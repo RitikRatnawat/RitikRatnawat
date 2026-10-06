@@ -1,108 +1,133 @@
 ![MasterHead](https://github.com/RitikRatnawat/RitikRatnawat/blob/29d32e2546628cfe8de1b0d5269b4e4f17562c62/assets/Ritik%20Ratnawat.png)
 
-<h1 align="center">Hi 👋, I'm Ritik Ratnawat</h1>
-<h3 align="center">🚀 Software Engineer | Backend Developer | AWS Certified | Skilled in Python, JavaScript, Django, FastAPI, DevOps | Passionate about Scalable Solutions</h3>
+<h1 align="center">Ritik Ratnawat</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikratnawat&label=Profile%20views&color=green&style=plastic" alt="ritikratnawat" /></p>
+<p align="center">
+  <b>I turn manual infrastructure work into code.</b><br/>
+  Backend + platform engineer · Python & Go · OpenShift, VMware & AWS
+</p>
 
-- 🌱 I’m currently learning **Backend Development, DevOps, WebRTC**
-- 💬 Ask me about **Python, JavaScript, Backend, Data Engineering, DevOps**
-- 📫 How to reach me **ritikratnawat786@gmail.com**
-- 🌍 Current Location : **Pune, Maharashtra, India**
-- 📄 Know about my experiences **[CV - Ritik Ratnawat](https://drive.google.com/file/d/1RTczIG3fljOOZcK4l3aamm_IPoPpRO71/view?usp=sharing 'target=_blank')**
-
----
-
-### 👨‍💻 About Me
-Backend Software Engineer with expertise in Python, Django, FastAPI, AWS, and DevOps tools. I am passionate about developing scalable solutions that streamline processes and enhance efficiency. AWS-certified, with a strong background in cloud services and microservice architecture. I enjoy solving complex backend challenges and contributing to impactful projects.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ritikratnawat786/"><img src="https://img.shields.io/badge/LinkedIn-ritikratnawat786-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ritikratnawat786@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/ritikratnawat786/"><img src="https://img.shields.io/badge/LeetCode-350%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+</p>
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/ritikratnawat786/)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/RitikRatnawat)
+## `$ whoami`
 
----
+```yaml
+name:      Ritik Ratnawat
+role:      Application Developer @ Telus Digital
+based_in:  India (Mandsaur, MP / Noida, UP)
+education: B.Tech CSE, Medi-Caps University (CGPA 9.6/10)
+focus:     [infra automation, platform APIs, virtualization, cloud]
+languages: [Python, Go, SQL, JavaScript]
+mantra:    "If I did it twice by hand, it becomes a pipeline."
+```
 
-### 🔧 Technologies & Tools
+## What I'm building right now
 
-#### Programming Languages
-![Python](https://skillicons.dev/icons?i=python&theme=light)
-![Java](https://skillicons.dev/icons?i=java&theme=light)
-![CPP](https://skillicons.dev/icons?i=cpp&theme=light)
-![HTML](https://skillicons.dev/icons?i=html&theme=light)
-![CSS](https://skillicons.dev/icons?i=css&theme=light)
-![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light)
-![Golang](https://skillicons.dev/icons?i=go&theme=light)
-![BASH](https://skillicons.dev/icons?i=bash&theme=light)
+- **Backup automation:** provisioning Cohesity backups end to end with Python, Helios and StorageGRID APIs, AWS Boto3 and GitLab CI/CD.
+- **Databases on Kubernetes:** highly available SQL Server Always On clusters running on OpenShift Virtualization (KubeVirt).
+- **Private cloud migrations:** moving VMware Cloud Foundation workflows from VCF 8 to VCF 9.
+- **Network plumbing:** a hub-spoke DHCP design across OpenShift clusters using RHACM.
 
-#### Frameworks
-![Django](https://skillicons.dev/icons?i=django&theme=light)
-![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=light)
-![Flask](https://skillicons.dev/icons?i=flask&theme=light)
-![React](https://skillicons.dev/icons?i=react&theme=light)
+## Where I've been
 
-#### Databases (SQL)
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)
-![PostgresSQL](https://skillicons.dev/icons?i=postgres&theme=light)
-![SQLite](https://skillicons.dev/icons?i=sqlite&theme=light)
+| When | Where | What I did there |
+|------|-------|------------------|
+| Jul 2025 → now | **Telus Digital** | Virtualization and infrastructure automation on OpenShift, VMware and cloud |
+| Jan 2023 → Jul 2025 | **ConsultAdd Inc** | Microservices, auth layers, SDKs and serverless pipelines for enterprise clients |
 
-#### Databases (NoSQL)
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light)
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/96f4ac14d62b3cf739e454a7013900771f06524d/assets/aws-dynamodb.png" width=48 alt="AWS S3" style="border-radius: 10px">
-![Redis](https://skillicons.dev/icons?i=redis&theme=light)
+A few things I shipped along the way:
 
-#### Other Technologies
-![Git](https://skillicons.dev/icons?i=git&theme=light)
-![Bitbucket](https://skillicons.dev/icons?i=bitbucket&theme=light)
-![Gitlab](https://skillicons.dev/icons?i=gitlab&theme=light)
-![Docker](https://skillicons.dev/icons?i=docker&theme=light)
-![Ansible](https://skillicons.dev/icons?i=ansible&theme=light)
-![Jenkins](https://skillicons.dev/icons?i=jenkins&theme=light)
-![Terraform](https://skillicons.dev/icons?i=terraform&theme=light)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=light)
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/29d32e2546628cfe8de1b0d5269b4e4f17562c62/assets/helm.png" width=50 alt="Helm">
-![Openshift](https://skillicons.dev/icons?i=openshift&theme=light)
-![Postman](https://skillicons.dev/icons?i=postman&theme=light)
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/29d32e2546628cfe8de1b0d5269b4e4f17562c62/assets/webrtc.png" width=52 alt="WebRTC">
+- FastAPI microservices that provision infrastructure with Helm on OpenShift, cutting manual configuration by **57%**
+- A Python SDK with custom connection pooling that sped up internal integrations by **40%**
+- An OAuth2-secured proxy for Jupyter environments that cut unauthorized data-access incidents by **40%**
+- Serverless ETL on AWS Lambda, S3 and DynamoDB that reduced manual processing by **60%**
+- Nautobot orchestration plugins in Django that automated **80%** of network configuration work
 
-#### Cloud Services
-![AWS](https://skillicons.dev/icons?i=aws&theme=light)
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/1b9aed85037b71ca8ba7501df95160598c3e18de/assets/aws-ec2.png" width=48 alt="AWS EC2" style="border-radius: 20px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/1b9aed85037b71ca8ba7501df95160598c3e18de/assets/aws-ec2-autoscaling.png" width=48 alt="AWS EC2 Auto Scaling" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/1c67835a7b60dfa2de4a595a1d15b89690d5f28a/assets/aws-loadbalancer.png" width=48 alt="AWS Elastic LoadBalancer" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/1c67835a7b60dfa2de4a595a1d15b89690d5f28a/assets/aws-iam.png" width=48 alt="AWS Elastic IAM" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/abd24652912dec7b0f7294f4fcfcb869534dff54/assets/aws-lambda.png" width=48 alt="AWS Lambda" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/ebaebc6578534691f521e2da02ecd2bc707db05b/assets/aws-s3.png" width=48 alt="AWS S3" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/ebaebc6578534691f521e2da02ecd2bc707db05b/assets/aws-rds.png" width=48 alt="AWS RDS" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/ebaebc6578534691f521e2da02ecd2bc707db05b/assets/aws-dynamodb.png" width=48 alt="AWS DynamoDB" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/cf414be74150f009568fcb702d51c002d997ff00/assets/aws-elasticcache.png" width=48 alt="AWS ElasticCache" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/cf414be74150f009568fcb702d51c002d997ff00/assets/aws-apigateway.png" width=48 alt="AWS APIGateway" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/59f2c213675f2a2f26fae3eef5ab833e95cf331b/assets/aws-cloudformation.png" width=48 alt="AWS CloudFormation" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/cf414be74150f009568fcb702d51c002d997ff00/assets/aws-ecs.png" width=48 alt="AWS ECS" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/cf414be74150f009568fcb702d51c002d997ff00/assets/aws-ecs-fargate.png" width=48 alt="AWS ECS Fargate" style="border-radius: 10px"> <br>
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/20cbec9b4c921a56f3790c644feae03e1fb91e12/assets/aws-sqs.png" width=48 alt="AWS SQS" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/20cbec9b4c921a56f3790c644feae03e1fb91e12/assets/aws-sns.png" width=48 alt="AWS SNS" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/20cbec9b4c921a56f3790c644feae03e1fb91e12/assets/aws-ses.png" width=48 alt="AWS SES" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/20cbec9b4c921a56f3790c644feae03e1fb91e12/assets/aws-secretmanager.png" width=48 alt="AWS Secrets Manager" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/20cbec9b4c921a56f3790c644feae03e1fb91e12/assets/aws-cloudwatch.png" width=48 alt="AWS CloudWatch" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-route53.png" width=48 alt="AWS Route53" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-codecommit.png" width=48 alt="AWS CodeCommit" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-codebuild.png" width=48 alt="AWS CodeBuild" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-codeartifact.png" width=48 alt="AWS CodeArtifact" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-codedeploy.png" width=48 alt="AWS CodeDeploy" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-codestar.png" width=48 alt="AWS CodeStar" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-codepipeline.png" width=48 alt="AWS CodePipeline" style="border-radius: 10px">
-<img src="https://github.com/RitikRatnawat/RitikRatnawat/blob/d40e0772e727e37bc5498555f7960a2109ac2d72/assets/aws-glue.png" width=48 alt="AWS Glue" style="border-radius: 10px">
+## Featured projects
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RitikRatnawat/File-Vault">📁 File Vault</a></h3>
+      A Dockerized file-hosting app with deduplication, plus advanced search and filtering for managing files at scale.<br/><br/>
+      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django"/>
+      <img src="https://img.shields.io/badge/DRF-A30000?logo=django&logoColor=white" alt="DRF"/>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/TanStack-FF4154?logo=reactquery&logoColor=white" alt="TanStack"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RitikRatnawat/Auth-Proxy">🔐 Auth Proxy</a></h3>
+      An OAuth2 authentication proxy written in Go that fronts Jupyter on OpenShift, packaged with Helm for scalable multi-user access.<br/><br/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" alt="Helm"/>
+      <img src="https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white" alt="OpenShift"/>
+    </td>
+  </tr>
+</table>
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RitikRatnawat&show_icons=true&theme=default&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RitikRatnawat&layout=compact&theme=default)
-![Ritik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RitikRatnawat&theme=react&bg_color=ffffff&title_color=2f80ed&line=2f80ed&color=000000&area=true&point=2f80ed&radius=10&days=50)
+## Toolbox
 
----
+**Backend & languages**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-Thanks for visiting my profile! Looking forward to collaborating and learning together.
+**Cloud, containers & DevOps**<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
 
+**Virtualization & data**<br/>
+![VMware](https://img.shields.io/badge/VMware%20VCF-607078?logo=vmware&logoColor=white)
+![KubeVirt](https://img.shields.io/badge/KubeVirt-326CE5?logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
+**AI & data (exploring)**<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-555555)
+
+## Certifications & recognition
+
+- ☁️ AWS Certified Developer - Associate
+- 🔷 Microsoft Azure Fundamentals · Azure Data Fundamentals
+- 🐧 NDG Linux Essentials
+- 🤖 Machine Learning using Python (Coursera)
+- 🏆 Delivery Astute Award, ConsultAdd (2024)
+- 🧩 350+ LeetCode and 100+ GFG problems solved, plus HackerRank skill badges
+
+## GitHub at a glance
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RitikRatnawat&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikRatnawat&layout=compact&hide_border=true" alt="Top languages"/>
+</p>
+
+## Let's talk
+
+I'm happy to chat about infrastructure-as-code, platform engineering, Kubernetes-based virtualization, or building clean internal APIs and SDKs.
+
+📫 **ritikratnawat786@gmail.com** · [LinkedIn](https://www.linkedin.com/in/ritikratnawat786/)
+
+<p align="center"><sub>Built with Python, coffee and a lot of YAML.</sub></p>
